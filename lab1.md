@@ -23,4 +23,6 @@
 	that allow these kinds of abuses is morally right is an important step.
 ###d.
 Photo: ![tree](images/tree_install.png)
-    
+###d.
+2. Photo: ![]
+3. Photo: ![]
