@@ -22,5 +22,5 @@
 	as the school encouraged him to. But I think going higher is necessary, and thinking about whether the legal systems
 	that allow these kinds of abuses is morally right is an important step.
 ###d.
-Photo: ![tree](tree_install.png)
+Photo: ![tree](images/tree_install.png)
     
