@@ -29,4 +29,7 @@ Photo: ![tree](images/tree_install.png)
 3. Photo: ![RegExProblems2](images/RegExProblems2.png)
 	Unsure if this is enough proof. Wording on problem is vague.
 ###f.
-
+1. Photo: ![BlocklyProblem](images/BlocklyProblem.png)
+###g
+3. Overall, this kinda sucked. It was way too long for a first lab, and while I did learn a lot, the lab itself wasn't very 
+   focused, so I don't think I'll remember very much of it in the long term. 
