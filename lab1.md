@@ -32,4 +32,8 @@ Photo: ![tree](images/tree_install.png)
 1. Photo: ![BlocklyProblem](images/BlocklyProblem.png)
 ###g
 3. Overall, this kinda sucked. It was way too long for a first lab, and while I did learn a lot, the lab itself wasn't very 
-   focused, so I don't think I'll remember very much of it in the long term. 
+   focused, so I don't think I'll remember very much of it in the long term. The lab could've been just installing linux, 
+   because it's a fairly long process if it doesn't install easily on your computer. Personally, I had to use a virtual machine
+   to install it, after many hours of struggling. RegEx kinda sucked, because it wasn't very clear what you were supposed to do.
+   Problem 4 of the crossword-type RegEx puzzles was particularly hard, because neither link told us what [*] meant. Blockly was
+   pretty fun, though. Overall, mediocre lab. Could've been better. 6/10.
